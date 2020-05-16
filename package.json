@@ -1,0 +1,26 @@
+{
+  "name": "sitescraper",
+  "version": "1.0.0",
+  "description": "bootcamp homework - website scraper",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WilliamStephan/siteScraper.git"
+  },
+  "author": "Bill Stephan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WilliamStephan/siteScraper/issues"
+  },
+  "homepage": "https://github.com/WilliamStephan/siteScraper#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.3",
+    "mongoose": "^5.9.7"
+  }
+}
